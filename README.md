@@ -1,0 +1,2 @@
+# Lab-3-Data-Carving-with-XXD-Binwalk-and-Scalpel
+The lab explains the importance of data carving when file-system information is missing or damaged. Students learn to identify file signatures and examine binary data using XXD. They practise using The Sleuth Kit, Binwalk, and Scalpel to recover digital evidence. Students also learn to verify evidence with hashes and prepare a clear forensic report
